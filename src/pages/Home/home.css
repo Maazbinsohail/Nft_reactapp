@@ -1,0 +1,65 @@
+.left-col{
+    height: 300px;
+    padding: 20px;
+    background: linear-gradient(to right, #A9A9A9,#B6B6B4,#DADBDD);
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.home-topbar{
+    margin-top: 30px;
+}
+.home-btns{
+    margin-top: 70px;
+}
+.btn-navbar:hover{
+    background-color:#000000;
+    color: white;
+}
+
+.collectibles-img{
+    width: 150px;
+    height: 150px;
+}
+.collectibles{
+    font-weight: 300;
+}
+
+.dev-img{
+    height: 150px;
+    width: 190px;
+    border-radius: 200px;
+}
+
+.pro-img{
+    height: 200px;
+    width: 280px;
+}
+
+.tech-img{
+    width: 350px;
+    height: 200px;
+}
+
+.comp-img{
+    width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.type-writer{
+
+    display: flex;
+    margin: 0;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: 
+      typing 13s forwards;
+    
+    width: 0;
+  }
+  @keyframes typing {
+    from { width: 0 }
+    to { width: 100% }
+  }

@@ -1,0 +1,10 @@
+.projects-top{
+    background: linear-gradient(to right, #A9A9A9,#B6B6B4,#DADBDD);
+    height: 150px;
+    width: 100%;
+   
+}
+.project-img{
+    height: 150px;
+    width: 220px;
+}
